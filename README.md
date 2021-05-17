@@ -5,7 +5,13 @@ The purpose of this analysis was to explore key metrics in school performance da
 
 ## Results 
 ### Impact on District Summary
+The impact to the overall district summary from removing the scores of 9th graders at Thomas High School (referred to as 9 THS scores moving forward) is negligible as show by the figures below. The reason for this is that the number of 9th graders at Thomas High Schools is just over 450 of the approximately 39K students sampled. As these students account for 0.01% of all students in the district, the impact of removing these datapoints is minimal. 
 
+**fig 1: Initial District Summary**
+![initial_district_analysis](https://user-images.githubusercontent.com/81983110/118418003-9ebc2200-b684-11eb-98be-895f66b09904.png)
+
+**fig 2: Updated District Summary without 9 THS scores**
+![clean_district_analysis](https://user-images.githubusercontent.com/81983110/118418001-9e238b80-b684-11eb-9efe-1241f2dce93e.png)
 
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
